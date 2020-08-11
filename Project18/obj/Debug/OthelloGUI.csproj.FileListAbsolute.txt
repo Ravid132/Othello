@@ -1,0 +1,10 @@
+C:\Users\Ravid\Desktop\ex05\B19 Ex05 RavidHamami 316612027 SelaShabtai 301836854\Project18\bin\Debug\Project18.exe.config
+C:\Users\Ravid\Desktop\ex05\B19 Ex05 RavidHamami 316612027 SelaShabtai 301836854\Project18\obj\Debug\OthelloGUI.csprojResolveAssemblyReference.cache
+C:\Users\Ravid\Desktop\ex05\B19 Ex05 RavidHamami 316612027 SelaShabtai 301836854\Project18\obj\Debug\Project18.Properties.Resources.resources
+C:\Users\Ravid\Desktop\ex05\B19 Ex05 RavidHamami 316612027 SelaShabtai 301836854\Project18\obj\Debug\OthelloGUI.csproj.GenerateResource.Cache
+C:\Users\Ravid\Desktop\ex05\B19 Ex05 RavidHamami 316612027 SelaShabtai 301836854\Project18\bin\Debug\Project18.exe
+C:\Users\Ravid\Desktop\ex05\B19 Ex05 RavidHamami 316612027 SelaShabtai 301836854\Project18\bin\Debug\Project18.pdb
+C:\Users\Ravid\Desktop\ex05\B19 Ex05 RavidHamami 316612027 SelaShabtai 301836854\Project18\obj\Debug\Project18.exe
+C:\Users\Ravid\Desktop\ex05\B19 Ex05 RavidHamami 316612027 SelaShabtai 301836854\Project18\obj\Debug\Project18.pdb
+C:\Users\Ravid\Desktop\ex05\B19 Ex05 RavidHamami 316612027 SelaShabtai 301836854\Project18\obj\Debug\OthelloGUI.FormGame.resources
+C:\Users\Ravid\Desktop\ex05\B19 Ex05 RavidHamami 316612027 SelaShabtai 301836854\Project18\obj\Debug\OthelloGUI.FormGameSettings.resources
